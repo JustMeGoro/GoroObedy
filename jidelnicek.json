@@ -1,0 +1,86 @@
+[
+    {
+        "datum": "Po 4.5.",
+        "polevka": "Oběd - polévka Polévka čočková (1.1,9) Hodnocení:",
+        "obed1": "Oběd 1 Boloňské špagety se sýrem (1.1,7,9)",
+        "obed2": "Oběd 2 Šišky s mákem a máslem (1.1,3,7)  kakao (7)"
+    },
+    {
+        "datum": "Út 5.5.",
+        "polevka": "Oběd - polévka Polévka špenátová s krutóny (1.1,3,7,9) Hodnocení:",
+        "obed1": "Oběd 1 Vep. panenka v ang. slanině s omáčkou z lišek (1.1,9,10) opékané brambory",
+        "obed2": "Oběd 2 Italský těstovinový salát (salám, celer, kys. okurky) (1.1,3,7,9,10)"
+    },
+    {
+        "datum": "St 6.5.",
+        "polevka": "Oběd - polévka Polévka květáková s kukuřicí (1.1,3,7,9) Hodnocení:",
+        "obed1": "Oběd 1 Plněné papriky v rajské omáčce (1.1,3,7,9) dušená rýže",
+        "obed2": "Oběd 2 Obalované rybí filé se sýrem (1.1,3,4,7) vař. brambor s máslem (7) kompot"
+    },
+    {
+        "datum": "Čt 7.5.",
+        "polevka": "Oběd - polévka Polévka vývar s těstovinou (1.1,3,9) Hodnocení:",
+        "obed1": "Oběd 1 Kuřecí řízek ondráš (1.1,3,7,9) zeleninová obloha",
+        "obed2": ""
+    },
+    {
+        "datum": "Po 11.5.",
+        "polevka": "Oběd - polévka Polévka rychlá s vejci (1.1,3,9) Hodnocení:",
+        "obed1": "Oběd 1 Vař. vejce, fazolové lusky na smetaně (1.1,3,7,9) vař. brambor V",
+        "obed2": "Oběd 2 Kuskus na kari se zeleninou (1.1, 7,9)  salát V"
+    },
+    {
+        "datum": "Út 12.5.",
+        "polevka": "Oběd - polévka Polévka hrachová s krutóny (1.1,,3,9) Hodnocení:",
+        "obed1": "Oběd 1 Ohnivé kuřecí maso  (1.1,6,9) dušená rýže",
+        "obed2": "Oběd 2 2 ks hamburgeru se stripsy a zeleninou  (1.1, 3,7,9,10)"
+    },
+    {
+        "datum": "St 13.5.",
+        "polevka": "Oběd - polévka Polévka selská (1.1,3,7,9)",
+        "obed1": "Oběd 1 Masovo - brokolicové kuličky (1.1,3,7,9) bram. kaše (7) zel. bar",
+        "obed2": "Oběd 2 Smažený květák (1.1,3,7,) vař. brambor s pažitkou (7) zel. bar"
+    },
+    {
+        "datum": "Čt 14.5.",
+        "polevka": "Oběd - polévka Polévka jarní zeleninová (1.1,7,9)",
+        "obed1": "Oběd 1 Segedínský guláš (1.1,7,9) houskový knedlík (1.1,3,7)",
+        "obed2": "Oběd 2 Čínské nudle s tofu a zeleninou (1.1,3,7,9)  V"
+    },
+    {
+        "datum": "Pá 15.5.",
+        "polevka": "Oběd - polévka Polévka rajská s těstovinovou ryží (1.1,3,9) V",
+        "obed1": "Oběd 1 Krůtí  paella  (9 ) zeleninový bar",
+        "obed2": ""
+    },
+    {
+        "datum": "Po 18.5.",
+        "polevka": "Oběd - polévka Polévka mrkvový krém (1.1,7,9)",
+        "obed1": "Oběd 1 Zahradnická sekaná (1.1,3,7,9,10) šťouchané brambory (7) zel. bar",
+        "obed2": "Oběd 2 Opečený salám, hrachová kaše s cibulkou(1.1,7,9) chléb, kys. okurek"
+    },
+    {
+        "datum": "Út 19.5.",
+        "polevka": "Oběd - polévka Polévka francouzká (1.1,9)",
+        "obed1": "Oběd 1 Vepřová pečeně s houbovou omáčkou(1.1,7,9) houskový knedlík (1.1,3,7)",
+        "obed2": "Oběd 2 Šopský salát (7), pečivo V"
+    },
+    {
+        "datum": "St 20.5.",
+        "polevka": "Oběd - polévka Polévka kapustová (1.1,9)",
+        "obed1": "Oběd 1 Rybí filé po mlynářsku (1.1,4,7) bram. kaše, zel. bar",
+        "obed2": "Oběd 2 Zapečený květák s vejci (3,7,9) brambor s máslem (7) zel. bar V"
+    },
+    {
+        "datum": "Čt 21.5.",
+        "polevka": "Oběd - polévka Polévka vývar s pohankou (1.1.7,9)",
+        "obed1": "Oběd 1 Kuřecí nudličky na ajvaru (1.1,7,9,10) dušená rýže",
+        "obed2": "Oběd 2 Honzíkovy buchty s tvarohem (1.1,3,7) bílá káva (7) V"
+    },
+    {
+        "datum": "Pá 22.5.",
+        "polevka": "Oběd - polévka Polévka kulajda (1.1,3,7,9)",
+        "obed1": "Oběd 1 Halušky se zelím a anglickou slaninou",
+        "obed2": ""
+    }
+]
